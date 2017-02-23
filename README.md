@@ -1,6 +1,3 @@
-# tensorflow script starter repository
+# tensorflow with deep neural networks
 
-- virtualenv ./ --no-site-packages
-- . bin/activate
-- pip install -r requirements.txt
-- python test.py
+- https://www.tensorflow.org/versions/master/tutorials/mnist/pros/
